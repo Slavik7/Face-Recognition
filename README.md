@@ -5,7 +5,7 @@ after dimensionality reduction with PCA (Principal Components Analysis).
 
 # Eigen Faces:
 
-<img src="https://user-images.githubusercontent.com/50868290/58433904-c5f93d80-80c1-11e9-85ce-d39b6c4b712c.jpg" height="600" width="600">
+<img src="https://user-images.githubusercontent.com/50868290/58433904-c5f93d80-80c1-11e9-85ce-d39b6c4b712c.jpg">
 
 
 # Test:
