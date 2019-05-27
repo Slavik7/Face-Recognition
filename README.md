@@ -8,12 +8,14 @@ after dimensionality reduction with PCA (Principal Components Analysis).
 
 <img src="https://user-images.githubusercontent.com/50868290/58433904-c5f93d80-80c1-11e9-85ce-d39b6c4b712c.jpg">
 
+_______________________________________________
 
 ### Test:
 testing new face
 
 <img src="https://user-images.githubusercontent.com/50868290/58433980-1c667c00-80c2-11e9-9794-5bfccf9fa907.jpg">
 
+_______________________________________________
 
 ### Parameters Table:
 
